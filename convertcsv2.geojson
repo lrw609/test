@@ -1,0 +1,1505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -110.419998 , 31.6000004  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KALK",
+    "best_model":"GFS",
+    "bias":-1.76546001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -110.959999 , 32.1300011  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KTUS",
+    "best_model":"NAM",
+    "bias":-1.36559999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.980003 , 32.5699997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSDM",
+    "best_model":"GFS",
+    "bias":-0.328900009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.470001 , 32.6199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCZZ",
+    "best_model":"GFS",
+    "bias":0.980189979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.220001 , 32.7000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNZY",
+    "best_model":"GFS",
+    "bias":1.04691005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.169998 , 32.7299995  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSAN",
+    "best_model":"GFS",
+    "bias":0.909680009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.129997 , 32.8199997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMYF",
+    "best_model":"GFS",
+    "bias":0.784919977
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -115.680000 , 32.8199997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNJK",
+    "best_model":"GFS",
+    "bias":-2.00146008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -115.580002 , 32.8300018  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KIPL",
+    "best_model":"GFS",
+    "bias":0.925379992
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.910004 , 33.0400009  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KRNM",
+    "best_model":"GFS",
+    "bias":-0.740980029
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.279999 , 33.1300011  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCRQ",
+    "best_model":"GFS",
+    "bias":-0.476260006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.349998 , 33.2200012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KOKB",
+    "best_model":"GFS",
+    "bias":1.46085
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.349998 , 33.2999992  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNFG",
+    "best_model":"GFS",
+    "bias":1.53846002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.410004 , 33.4099998  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KAVX",
+    "best_model":"RAP",
+    "bias":-1.37040997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.019997 , 33.4300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPHX",
+    "best_model":"GFS",
+    "bias":-3.41264009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -114.720001 , 33.6199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBLH",
+    "best_model":"GFS",
+    "bias":-0.0644399971
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -111.919998 , 33.6199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSDL",
+    "best_model":"GFS",
+    "bias":-0.650089979
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.169998 , 33.6300011  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KTRM",
+    "best_model":"RAP",
+    "bias":-1.95472002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.870003 , 33.6800003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSNA",
+    "best_model":"NAM",
+    "bias":0.924049973
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.070000 , 33.6800003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KDVT",
+    "best_model":"GFS",
+    "bias":0.836269975
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.150002 , 33.8199997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KLGB",
+    "best_model":"NAM",
+    "bias":0.95411998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.500000 , 33.8300018  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPSP",
+    "best_model":"GFS",
+    "bias":2.4512701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.980003 , 33.8699989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KFUL",
+    "best_model":"NAM",
+    "bias":0.734520018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.599998 , 33.9000015  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KAJO",
+    "best_model":"NAM",
+    "bias":0.649230003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.330002 , 33.9199982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KHHR",
+    "best_model":"NAM",
+    "bias":-0.755970001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.400002 , 33.9300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KLAX",
+    "best_model":"NAM",
+    "bias":-1.06301999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.449997 , 33.9500008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KRAL",
+    "best_model":"GFS",
+    "bias":0.55211997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.629997 , 33.9700012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCNO",
+    "best_model":"NAM",
+    "bias":-1.00448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.449997 , 34.0200005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSMO",
+    "best_model":"NAM",
+    "bias":1.53708994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.599998 , 34.0499992  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KONT",
+    "best_model":"NAM",
+    "bias":-1.10286999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.120003 , 34.1199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNTD",
+    "best_model":"NAM",
+    "bias":0.367410004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.199997 , 34.2000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KOXR",
+    "best_model":"NAM",
+    "bias":-0.797490001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.349998 , 34.2000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBUR",
+    "best_model":"NAM",
+    "bias":1.01259995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.080002 , 34.2200012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCMA",
+    "best_model":"NAM",
+    "bias":2.69424009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.480003 , 34.2200012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KVNY",
+    "best_model":"NAM",
+    "bias":1.28842998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -111.330002 , 34.2500000  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPAN",
+    "best_model":"NAM",
+    "bias":-1.09754002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.139999 , 34.2799988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNXP",
+    "best_model":"GFS",
+    "bias":-4.04683018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.830002 , 34.4300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSBA",
+    "best_model":"NAM",
+    "bias":1.67140996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.660004 , 34.5600014  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KGXA",
+    "best_model":"RAP",
+    "bias":-0.346630007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.419998 , 34.6500015  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPRC",
+    "best_model":"NAM",
+    "bias":1.59900999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.470001 , 34.6699982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KLPC",
+    "best_model":"RAP",
+    "bias":-0.642390013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.730003 , 34.7500000  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSDB",
+    "best_model":"NAM",
+    "bias":-2.18850994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.779999 , 34.8499985  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KDAG",
+    "best_model":"NAM",
+    "bias":-2.41375995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.449997 , 34.9000015  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSMX",
+    "best_model":"GFS",
+    "bias":-0.531329989
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.430000 , 35.1399994  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KTSP",
+    "best_model":"GFS",
+    "bias":-0.45866999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -113.949997 , 35.2700005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KIGM",
+    "best_model":"NAM",
+    "bias":1.70185995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.620003 , 35.2799988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBYS",
+    "best_model":"GFS",
+    "bias":0.944350004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.199997 , 35.2999992  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCMR",
+    "best_model":"RAP",
+    "bias":1.32554996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.050003 , 35.4300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBFL",
+    "best_model":"GFS",
+    "bias":-0.183579996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.629997 , 35.6699982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPRB",
+    "best_model":"GFS",
+    "bias":0.998250008
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -117.680000 , 35.6800003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNID",
+    "best_model":"NAM",
+    "bias":-1.85911
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -114.860001 , 35.9399986  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBVU",
+    "best_model":"NAM",
+    "bias":0.71548003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.150002 , 35.9500008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KGCN",
+    "best_model":"NAM",
+    "bias":1.01853001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -115.129997 , 35.9799995  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KHND",
+    "best_model":"GFS",
+    "bias":-2.0667901
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.070000 , 36.0299988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPTV",
+    "best_model":"NAM",
+    "bias":-1.58144999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -115.199997 , 36.2099991  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KVGT",
+    "best_model":"GFS",
+    "bias":-1.06389999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.629997 , 36.3199997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KHJO",
+    "best_model":"NAM",
+    "bias":-0.730350018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.400002 , 36.3199997  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KVIS",
+    "best_model":"NAM",
+    "bias":-0.722850025
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.949997 , 36.3300018  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNLC",
+    "best_model":"NAM",
+    "bias":-1.20632994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.849998 , 36.5800018  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMRY",
+    "best_model":"RAP",
+    "bias":-0.93641001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.019997 , 36.6199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KDRA",
+    "best_model":"NAM",
+    "bias":-0.525950015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.599998 , 36.6699982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSNS",
+    "best_model":"NAM",
+    "bias":-0.644580007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.720001 , 36.7700005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KFAT",
+    "best_model":"NAM",
+    "bias":0.363270015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.410004 , 36.8899994  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCVH",
+    "best_model":"NAM",
+    "bias":0.540260017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -111.449997 , 36.9300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPGA",
+    "best_model":"NAM",
+    "bias":-0.754429996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.790001 , 36.9399986  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KWVI",
+    "best_model":"NAM",
+    "bias":1.47593999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.110001 , 36.9900017  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMAE",
+    "best_model":"NAM",
+    "bias":-1.83006001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.500000 , 37.2799988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMCE",
+    "best_model":"NAM",
+    "bias":-0.75424999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.919998 , 37.3699989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSJC",
+    "best_model":"RAP",
+    "bias":-1.38949001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.500000 , 37.5000000  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KHAF",
+    "best_model":"NAM",
+    "bias":-3.05063009
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.250000 , 37.5200005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSQL",
+    "best_model":"RAP",
+    "bias":-0.260720015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.949997 , 37.6300011  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMOD",
+    "best_model":"RAP",
+    "bias":0.496039987
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.120003 , 37.6699982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KHWD",
+    "best_model":"NAM",
+    "bias":-0.185190007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.820000 , 37.7000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KLVK",
+    "best_model":"NAM",
+    "bias":0.953010023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -113.099998 , 37.7000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCDC",
+    "best_model":"GFS",
+    "bias":1.53699005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -112.150002 , 37.7000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBCE",
+    "best_model":"NAM",
+    "bias":1.57555997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.220001 , 37.7299995  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KOAK",
+    "best_model":"NAM",
+    "bias":-1.64042997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.250000 , 37.9000015  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSCK",
+    "best_model":"RAP",
+    "bias":-1.20861995
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.050003 , 37.9799995  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCCR",
+    "best_model":"NAM",
+    "bias":-0.440560013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.279999 , 38.2200012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KAPC",
+    "best_model":"NAM",
+    "bias":-1.29418004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.930000 , 38.2700005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSUU",
+    "best_model":"NAM",
+    "bias":-1.16252005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.510002 , 38.3499985  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBAN",
+    "best_model":"NAM",
+    "bias":-0.38666001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.959999 , 38.3800011  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KVCB",
+    "best_model":"NAM",
+    "bias":-1.19426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -113.010002 , 38.4300003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMLF",
+    "best_model":"GFS",
+    "bias":-0.675670028
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.820000 , 38.5000000  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSTS",
+    "best_model":"GFS",
+    "bias":0.337220013
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.500000 , 38.5200005  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSAC",
+    "best_model":"RAP",
+    "bias":1.22863996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.300003 , 38.5499992  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMHR",
+    "best_model":"RAP",
+    "bias":-0.461290002
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.580002 , 38.7000008  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KSMF",
+    "best_model":"NAM",
+    "bias":-2.1164701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.750000 , 38.7200012  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPVF",
+    "best_model":"RAP",
+    "bias":-1.45208001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.000000 , 38.9000015  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KTVL",
+    "best_model":"NAM",
+    "bias":-3.53014994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.570000 , 39.0999985  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KMYV",
+    "best_model":"NAM",
+    "bias":-1.70977998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.730003 , 39.1800003  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCXP",
+    "best_model":"RAP",
+    "bias":1.21106005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.720001 , 39.2799988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KBLU",
+    "best_model":"GFS",
+    "bias":-2.80847001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -114.849998 , 39.2799988  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KELY",
+    "best_model":"NAM",
+    "bias":-2.84857988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.699997 , 39.4199982  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KNFL",
+    "best_model":"GFS",
+    "bias":-0.64598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.620003 , 39.4900017  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KOVE",
+    "best_model":"GFS",
+    "bias":-0.366899997
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.779999 , 39.5000000  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KRNO",
+    "best_model":"NAM",
+    "bias":-1.28948998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -116.010002 , 39.5999985  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KP68",
+    "best_model":"NAM",
+    "bias":2.23993993
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -110.750000 , 39.6199989  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KPUC",
+    "best_model":"GFS",
+    "bias":-4.13629007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -121.849998 , 39.7999992  ]
+    },
+    "properties": {
+    "variable":" WIND ",
+    "lead_time":0,
+    "valid_time":"20170324_120000",
+    "station":"KCIC",
+    "best_model":"NAM",
+    "bias":-1.92540002
+    }
+  }
+]
+}
